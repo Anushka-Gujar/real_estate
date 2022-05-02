@@ -1,2 +1,2 @@
 # real_estate
-the real estate website to connect buyer and seller
+the real estate website to connect buyers and sellers
